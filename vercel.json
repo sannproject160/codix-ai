@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/xkiro/:path*", "destination": "https://api.xkiro.com/v1/:path*" }
-  ]
-}
